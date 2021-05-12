@@ -1,2 +1,3 @@
 # portfolio
-A static website hosting my portfolio
+Omar Chatt
+Architecture student
