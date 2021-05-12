@@ -1,3 +1,2 @@
 # portfolio
-Omar Chatt
-Architecture student
+architecture student static website
