@@ -69,10 +69,7 @@ html {
 
 #content:hover
 {
-   clear: both;
-   border: 6px solid  #00317F;
 
-   transform: translate(5px, 5px);
 }
 
 .cat_p
