@@ -9,7 +9,7 @@ body {
 @media only screen and (max-device-width: 480px) {
     #menu li {
     	display: block;
-    }				
+    }
 }
 
 
@@ -45,10 +45,10 @@ html {
 }
 
 
-#menu 
+#menu
 {
 
-	
+
 	width: 50%;
 	min-width: 480px;
 }
@@ -56,14 +56,14 @@ html {
 #content
 {
    clear: both;
-   border: 5px solid #003380;
+   border-top: 2px solid #003380;
    width: 50%;
    position: relative;
    min-width: 480px;
 
    margin-bottom: 20px;
    padding: 10px;
-   transition: transform .3s ease-out;
+   -transition: transform .3s ease-out;
 
 }
 
@@ -117,7 +117,7 @@ html {
 
 
 #footer
-{	
+{
 	border-top: 1px solid black;
 	border-right: 6px solid black;
 	padding-top: 1px;
@@ -126,4 +126,3 @@ html {
 	min-width: 480px;
 	padding-top: 0px;
 }
-
