@@ -118,11 +118,11 @@ html {
 
 #footer
 {
-	border-top: 1px solid black;
-	border-right: 6px solid black;
+
 	padding-top: 1px;
 
 	width: 51.4  %;
 	min-width: 480px;
 	padding-top: 0px;
+	font-weight: bold;
 }
