@@ -63,6 +63,8 @@ html {
 
 #content img {
 	margin: 0 calc(-50vw + 54%);
+	flex-shrink: 0;
+	min-width: 40%;
 }
 
 .cat_p
