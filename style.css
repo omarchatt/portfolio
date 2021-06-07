@@ -67,6 +67,10 @@ html {
 	min-width: 40%;
 }
 
+#content p {
+	width: 30%;
+}
+
 .cat_p
 {
   border-left: 5px solid #0048BF;
