@@ -25,6 +25,8 @@ html {
 
   height: 56px;
   width: 200px;
+	font-size: 3em;
+	font-color: black;
 }
 
 #header:hover
