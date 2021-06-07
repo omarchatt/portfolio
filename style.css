@@ -45,8 +45,7 @@ html {
 #menu
 {
 
-
-	width: 80%;
+	width: 70%;
 	min-width: 480px;
 }
 
@@ -60,11 +59,6 @@ html {
 
    margin-bottom: 20px;
    padding: 10px;
-
-}
-
-#content:hover
-{
 
 }
 
