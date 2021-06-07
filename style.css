@@ -57,6 +57,8 @@ html {
 
    margin-bottom: 20px;
    padding: 10px;
+
+	 display: flex;
 }
 
 #content img {
