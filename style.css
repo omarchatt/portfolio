@@ -56,14 +56,13 @@ html {
 #content
 {
    clear: both;
-   -border-top: 2px solid #003380;
    width: 50%;
    position: relative;
    min-width: 480px;
+	 width: 100%;
 
    margin-bottom: 20px;
    padding: 10px;
-   -transition: transform .3s ease-out;
 
 }
 
@@ -82,6 +81,7 @@ html {
   color: #000;
   text-decoration: none;
   font-weight: bold;
+	font-size: 3em;
 
 }
 
