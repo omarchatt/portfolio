@@ -128,7 +128,7 @@ html {
 			flex-wrap: wrap;
 		}
 
-		#content img, p
+		#content img, #content p
 		{
 			width: 100%;
 		}
