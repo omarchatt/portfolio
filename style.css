@@ -118,7 +118,7 @@ html {
 
 /*  480 */
 @media only screen and (max-device-width: 480px) {
-	
+
     #menu li {
     	display: block;
     }
@@ -126,5 +126,10 @@ html {
 		#content
 		{
 			flex-wrap: wrap;
+		}
+
+		#content img, p
+		{
+			width: 100%;
 		}
 }
