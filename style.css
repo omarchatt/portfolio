@@ -3,21 +3,6 @@ body {
 	font-family: 'Helvetica';
 }
 
-
-
-/*  480 */
-@media only screen and (max-device-width: 480px) {
-    #menu li {
-    	display: block;
-    }
-
-		#content
-		{
-			flex-wrap: wrap;
-		}
-}
-
-
 html {
 
 	scroll-behavior: smooth;
@@ -129,4 +114,17 @@ html {
 	min-width: 480px;
 	padding-top: 0px;
 	font-weight: bold;
+}
+
+/*  480 */
+@media only screen and (max-device-width: 480px) {
+	
+    #menu li {
+    	display: block;
+    }
+
+		#content
+		{
+			flex-wrap: wrap;
+		}
 }
