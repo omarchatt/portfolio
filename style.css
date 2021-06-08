@@ -64,7 +64,7 @@ html {
 #content img {
 	margin-left: 0;
 	flex-shrink: 0;
-	min-width: 40%;
+	width: 40%;
 }
 
 #content p {
