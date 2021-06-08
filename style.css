@@ -62,7 +62,7 @@ html {
 }
 
 #content img {
-	margin-left: 0;
+	margin-left: -2em;
 	flex-shrink: 0;
 	width: 40%;
 }
