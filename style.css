@@ -73,8 +73,9 @@ html {
 }
 
 #content p {
-	width: 30%;
-	padding-left: 2em;
+	width: 40%;
+  padding-left: 2em;
+  font-size: 1.4em;
 }
 
 .cat_p
