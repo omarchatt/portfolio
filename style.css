@@ -117,7 +117,7 @@ html {
 }
 
 /*  480 */
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 1100px) {
 
     #menu li {
     	display: block;
